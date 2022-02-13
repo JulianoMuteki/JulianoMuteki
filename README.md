@@ -8,16 +8,17 @@
 
 ## Repositories 📜 
 
-- Windows Forms, WPF, ASP.NET MVC, WCF, .NET Core;
+- Windows Forms, WPF, ASP.NET MVC, WCF, .NET Core, .NET 6;
 - Linguagens C#,  JavaScript;
 - HTML, CSS, AJAX, jQuery, Bootstrap;
 - Microsoft SQL Server;
-- Visual Studio 2010, 2012, 2015, 2017 e 2019 e VS Code;
+- Visual Studio 2019 e VS Code;
 - Arduino
 
 Student:
  - Architecture and clean-code;
- - NodeJS, Python, Docker, Kubernetes Postgres, Micro-services, Google Cloud, Linux, ShellScript
+ - NodeJS, Python, Postgres, RabbitMQ;
+ - Docker, Kubernetes, Micro-services, Azure, Linux, ShellScript;
  - Enthusiast GTD and time management.🖌 
 
 
