@@ -18,7 +18,7 @@
 Student:
  - Architecture and clean-code;
  - NodeJS, Python, Postgres, RabbitMQ;
- - Docker, Kubernetes, Micro-services, Azure, Linux, ShellScript;
+ - Docker, Kubernetes, Micro-services, Azure, Helm, Terraform, Linux, ShellScript;
  - Enthusiast GTD and time management.🖌 
 
 
