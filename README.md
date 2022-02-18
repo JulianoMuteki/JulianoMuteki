@@ -6,7 +6,7 @@
 
 👨‍🎓 Graduated in Automation and Robotics Technology (UNIP) and Graduate studies in Object Oriented Software Engineering. 
 
-## Repositories 📜 
+## Experience 📜 
 
 - Windows Forms, WPF, ASP.NET MVC, WCF, .NET Core, .NET 6;
 - Linguagens C#,  JavaScript;
