@@ -14,6 +14,7 @@
 - Microsoft SQL Server;
 - Visual Studio 2019 e VS Code;
 - Arduino
+- Docker, Kubernetes, Helm, Terraform, Bash, GCP
 
 Student:
  - Architecture and clean-code;
